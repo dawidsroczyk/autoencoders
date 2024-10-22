@@ -6,6 +6,8 @@ The project was created for educational purposes
 
 ## Technologies Used
 - Python 3.11
+- Tensorflow
+- NumPy
 
 ## Table of contents
 * [Fashion mnist simple autoencoder](fashion-mnist/fashion_mnist_autoencoder.ipynb)
