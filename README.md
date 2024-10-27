@@ -12,3 +12,4 @@ The project was created for educational purposes
 ## Table of contents
 * [Fashion mnist simple autoencoder](fashion-mnist/fashion_mnist_autoencoder.ipynb)
 * [Fashion mnist variational autoencoder](fashion-mnist/fashion_mnist_variational_autoencoder.ipynb)
+* [CelebA variational autoencoder](CelebA_variational_autoencoder.ipynb)
